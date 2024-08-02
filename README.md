@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Andrea Orama, a **Software Engineer** that graduated from the University of Puerto Rico.
+I am Andrea Orama, a **Software Engineer** graduate from the University of Puerto Rico.
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-orama-8047a9248)
 
 ## Skills
